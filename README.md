@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
 <h1 align="center">Hi 👋, I'm Aman Kumar Shrivastava</h1>
 <h3 align="center">A passionate coder from India</h3>
 
