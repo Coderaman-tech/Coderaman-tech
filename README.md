@@ -1,7 +1,11 @@
 <img align="right" alt="GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
 <h1 align="center">Hi 👋, I'm Aman Kumar Shrivastava</h1>
 <h3 align="center">A passionate coder from India</h3>
+🌱 **I’m currently exploring:** Deep Learning
 
+🔭 **I’m currently working on:** Deep Learning with Pytorch.
+
+💬 **Ask me about:** Python , Machine Learning , Cosmos , jokes and a good playlist🎧
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaman-tech&label=Profile%20views&color=0e75b6&style=flat" alt="coderaman-tech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderaman-tech" alt="coderaman-tech" /></a> </p>
