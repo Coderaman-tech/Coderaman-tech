@@ -3,7 +3,7 @@
 <h3 align="center">A passionate coder from India</h3>
 🌱 **I’m currently exploring:** Deep Learning,React JS
 
-🔭 **I’m currently working on:** Deep Learning with Pytorch.
+🔭 **I’m currently working on:** Deep Learning with Pytorch,React JS.
 
 💬 **Ask me about:** Python , Machine Learning , Cosmos , jokes and a good playlist🎧
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaman-tech&label=Profile%20views&color=0e75b6&style=flat" alt="coderaman-tech" /> </p>
