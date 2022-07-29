@@ -7,7 +7,7 @@
 
 💬 **Ask me about:** Python , Machine Learning , Cosmos , jokes and a good playlist🎧
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaman-tech&label=Profile%20views&color=0e75b6&style=flat" alt="coderaman-tech" /> </p>
- [![trophy](https://github-profile-trophy.vercel.app/?Coderaman-tech=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?coderaman-tech=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
