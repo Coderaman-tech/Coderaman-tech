@@ -25,3 +25,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderaman-tech&show_icons=true&locale=en" alt="coderaman-tech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderaman-tech&" alt="coderaman-tech" /></p>
+
+<p align="center">
+  <img src="https://github.com/coderaman-tech/coderaman-tech/blob/output/github-contribution-grid-snake.gif" alt="Mehta's Snake" />
+</p>
+
+
+ <img src="https://komarev.com/ghpvc/?username=coderaman-tech8&label=visitors%20" alt="coderaman-tech" />
+
