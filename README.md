@@ -27,3 +27,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderaman-tech&" alt="coderaman-tech" /></p>
 
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Coderaman-tech">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Coderaman-tech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Coderaman-tech&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Coderaman-tech&theme=tokyonight"/>	
+</a>
+</p>
+
+
