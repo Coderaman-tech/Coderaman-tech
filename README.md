@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Shrivastava</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-🌱 **I’m currently exploring:** React JS
+🌱 **I’m currently exploring:** Django
 
 🔭 **I’m currently working on:** Deep Learning with Pytorch,React JS.
 
