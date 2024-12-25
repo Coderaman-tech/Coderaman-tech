@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Shrivastava</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-🌱 **I’m currently exploring:** Django
+🌱 **I’m currently exploring:** Next JS
 
-🔭 **I’m currently working on:** Deep Learning with Pytorch,React JS.
+🔭 **I’m currently working on:** Next JS,React JS.
 
 💬 **Ask me about:** Python , Machine Learning , Cosmos , jokes and a good playlist🎧
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaman-tech&label=Profile%20views&color=0e75b6&style=flat" alt="coderaman-tech" /> </p>
